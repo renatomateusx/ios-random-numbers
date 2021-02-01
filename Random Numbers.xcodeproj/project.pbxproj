@@ -15,6 +15,9 @@
 		41C3699025C81FCE0097AFF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41C3698E25C81FCE0097AFF1 /* LaunchScreen.storyboard */; };
 		41C3699B25C81FCF0097AFF1 /* Random_NumbersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C3699A25C81FCF0097AFF1 /* Random_NumbersTests.swift */; };
 		41C369A625C81FCF0097AFF1 /* Random_NumbersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C369A525C81FCF0097AFF1 /* Random_NumbersUITests.swift */; };
+		41C369B925C828DC0097AFF1 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 41C369B625C828DB0097AFF1 /* logo.png */; };
+		41C369BA25C828DC0097AFF1 /* botaogerar-pressionado.png in Resources */ = {isa = PBXBuildFile; fileRef = 41C369B725C828DC0097AFF1 /* botaogerar-pressionado.png */; };
+		41C369BB25C828DC0097AFF1 /* botaogerar.png in Resources */ = {isa = PBXBuildFile; fileRef = 41C369B825C828DC0097AFF1 /* botaogerar.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		41C369A125C81FCF0097AFF1 /* Random NumbersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Random NumbersUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41C369A525C81FCF0097AFF1 /* Random_NumbersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Random_NumbersUITests.swift; sourceTree = "<group>"; };
 		41C369A725C81FCF0097AFF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41C369B625C828DB0097AFF1 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		41C369B725C828DC0097AFF1 /* botaogerar-pressionado.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "botaogerar-pressionado.png"; sourceTree = "<group>"; };
+		41C369B825C828DC0097AFF1 /* botaogerar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = botaogerar.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +107,9 @@
 			children = (
 				41C3698325C81FC70097AFF1 /* AppDelegate.swift */,
 				41C3698525C81FC70097AFF1 /* SceneDelegate.swift */,
+				41C369B725C828DC0097AFF1 /* botaogerar-pressionado.png */,
+				41C369B825C828DC0097AFF1 /* botaogerar.png */,
+				41C369B625C828DB0097AFF1 /* logo.png */,
 				41C3698725C81FC70097AFF1 /* ViewController.swift */,
 				41C3698925C81FC70097AFF1 /* Main.storyboard */,
 				41C3698C25C81FCE0097AFF1 /* Assets.xcassets */,
@@ -231,9 +240,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41C369B925C828DC0097AFF1 /* logo.png in Resources */,
+				41C369BB25C828DC0097AFF1 /* botaogerar.png in Resources */,
 				41C3699025C81FCE0097AFF1 /* LaunchScreen.storyboard in Resources */,
 				41C3698D25C81FCE0097AFF1 /* Assets.xcassets in Resources */,
 				41C3698B25C81FC70097AFF1 /* Main.storyboard in Resources */,
+				41C369BA25C828DC0097AFF1 /* botaogerar-pressionado.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
